@@ -1,0 +1,20 @@
+$ git reflog
+cea47bd (HEAD -> master, test, release, develop) HEAD@{0}: merge develop: Fast-forward
+759298b HEAD@{1}: checkout: moving from release to master
+cea47bd (HEAD -> master, test, release, develop) HEAD@{2}: merge develop: Fast-forward
+27cfb38 HEAD@{3}: checkout: moving from test to release
+cea47bd (HEAD -> master, test, release, develop) HEAD@{4}: merge develop: Fast-forward
+f1dcf8d HEAD@{5}: checkout: moving from develop to test
+cea47bd (HEAD -> master, test, release, develop) HEAD@{6}: commit (merge): index + release commit
+f1dcf8d HEAD@{7}: merge test: Fast-forward
+5e991c4 HEAD@{8}: checkout: moving from release to develop
+27cfb38 HEAD@{9}: commit: index + release commit
+6d12992 HEAD@{10}: commit: folder css+style commit
+5e991c4 HEAD@{11}: checkout: moving from develop to release
+5e991c4 HEAD@{12}: checkout: moving from test to develop
+f1dcf8d HEAD@{13}: commit: index+image+test commit
+9ed6686 HEAD@{14}: commit: folder images+ image commit
+5e991c4 HEAD@{15}: checkout: moving from develop to test
+5e991c4 HEAD@{16}: commit: index commit
+759298b HEAD@{17}: checkout: moving from master to develop
+759298b HEAD@{18}: commit (initial): readme commit
